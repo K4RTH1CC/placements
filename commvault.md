@@ -38,8 +38,7 @@ Two job roles were offered, QA and SDE, QA only had python as an option and SDE 
 
 > A function to reverse a linked list given head and apply this every other m nodes.
 
-```cpp
-```
+(https://www.geeksforgeeks.org/reverse-alternate-k-nodes-in-a-singly-linked-list/)
 
 2. Given a BST, and two values p and q, find the largest value in the path from p to q. Both p and q exist.
 
